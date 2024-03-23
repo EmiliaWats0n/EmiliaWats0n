@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmiliaWats0n!!!!
 - 👀 I’m interested in Coding, Hacking and having fun!
-- 🌱 I’m currently learning Python and the funny Arduino IDE language.
+- 🌱 I’m currently learning Python and C++
 - 📫 How to reach me: YOU DON'T MOHAHAHAHA
 - 😄 Pronouns: She/her
 - ⚡ Fun fact: Pink is a colur
