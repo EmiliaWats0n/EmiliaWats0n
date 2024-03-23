@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and C++
 - 📫 How to reach me: YOU DON'T MOHAHAHAHA
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: Pink is a colur
+- ⚡ Fun fact: Pink is a colour
 
 <!---
 EmiliaWats0n/EmiliaWats0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
